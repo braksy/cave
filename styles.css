@@ -1,0 +1,6 @@
+.pic {
+    border-style: double;
+    border-width: 10px;
+    border-color: grey; 
+    background-color: black;
+  }
